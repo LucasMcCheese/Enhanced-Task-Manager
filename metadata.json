@@ -1,0 +1,6 @@
+{
+  "name": "Windows 11 Task Manager",
+  "description": "Ultra-modern Windows 11 Task Manager with a dark Fluent UI aesthetic for real-time process monitoring, performance charts, app history, startup management, and storage analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
